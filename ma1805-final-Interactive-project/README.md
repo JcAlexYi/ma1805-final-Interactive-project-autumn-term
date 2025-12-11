@@ -1,0 +1,3 @@
+This is a game where you dodge falling debris, similar to Thunder Force but different.The theme of this game is natural disasters. The falling debris can be interpreted as a representation of natural disasters. The characters in the game need to move around to avoid the debris and collect coins and first aid kits to get higher scores.
+I think the most challenging part is the invincibility frames after acquiring a first-aid kit.
+If I had more time, I would like to create a larger-scale game where the character can move horizontally while dodging vertically falling debris, incorporating more natural disaster elements such as wildfires, tsunamis, and earthquakes during the horizontal movement.
